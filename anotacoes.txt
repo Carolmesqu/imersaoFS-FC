@@ -1,0 +1,6 @@
+Com este comando fazemos o docker compose subir automaticamente todos os nossos serviços 
+docker-compose up -d
+
+docker exec -it imersaofs-fc-app-1 bash
+
+Parei em 1:31
