@@ -1,7 +1,7 @@
 package db
 
 import (
-	"github.com/codeedu/imersao/codepix-go/domain/model"
+	"github.com/Carolmesqu/imersaoFS-FC/domain/model"
 	"log"
 	"os"
 	"path/filepath"
